@@ -1,4 +1,3 @@
-// const { generateImage } = require("../controllers/openaiController");
 
 function onSubmit(e) {
     e.preventDefault()
